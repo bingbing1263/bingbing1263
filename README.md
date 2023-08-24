@@ -5,7 +5,7 @@ into a static site
 
 ## License
 
-The following directories and their contents are Copyright Shuting-Guo.
+The following directories and their contents are Copyright Shuting Guo.
 You may not reuse anything therein without my permission:
 
 * \_posts/
